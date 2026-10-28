@@ -1,17 +1,25 @@
+# Hi, I'm Eyüp Yılmaz 👋
 
+Full-stack developer with a background in finance and accounting. I build web platforms, social media publishing tools and business automation, mostly with **C# / .NET** and **TypeScript / Next.js**. Product and client work ships under **Manaliza**.
 
-👋Hi.
-💞️As a full-stack developer, I have realized many projects. In general, these projects were related to finance processes, budget planning and statistical operations. 
-I usually wrote these projects on the Web.
-In parallel with this, I developed myself in the field of management processes for several years. 
-🌱Between 2013-2018, I worked as a finance and accounting consultant in various sectors. In these studies, 
-I used data mining and business intelligence products as a method. Thus, I gained experience in big data and data processing. 
-After these experiences, I reached a position where I could evaluate the results and solve process problems.
+## 🚀 What I'm building
 
+- **[BültenHub](https://bultenhub.com)**: helps Turkish journalists turn news into vertical (9:16) videos and publish them to Facebook Pages, Instagram and TikTok.
+- **[Manaliza Pro](https://manaliza.pro)**: live stream relay infrastructure plus Facebook, Instagram and TikTok publishing integrations.
+- **Client websites**: for example [SALT Academy & Consulting](https://saltacademyconsulting.com).
 
-📫I'm doing integration projects on Twilio.
-📫📫I frequently use Devextreme processes in the frontend.
-📫📫📫In the backend part, I am writing Asp.Net projects in c#.
+## 🧰 Tech stack
 
-👀My aim is to make a system that carries out the budget, accounting and finance processes on the web completely automatically. 
-At the moment, I think I have completed 3/7 of this purpose.
+**Backend:** C#, ASP.NET, .NET, Python, Node.js<br>
+**Frontend:** TypeScript, React, Next.js, DevExtreme<br>
+**Cloud & data:** AWS, Vercel, Hetzner Cloud, Firebase, SQLite, SQL<br>
+**APIs & AI:** Meta Graph API, TikTok Content Posting API, Twilio, OpenAI, Google Gemini, ML.NET
+
+## 💼 Background
+
+- **2013 to 2018:** finance and accounting consultant across various sectors, using data mining and business intelligence tools.
+- **2018 onward:** full-stack development, first for finance, budgeting and reporting systems, now for social media and streaming products.
+
+## 📫 Contact
+
+[Website](https://www.eyupyilmaz.com) · [LinkedIn](https://linkedin.com/in/meyupyilmaz) · [X](https://x.com/meyupyilmaz) · [Stack Overflow](https://stackoverflow.com/users/16217790)
